@@ -20,5 +20,8 @@ class Developer:
         self.education = "B.Tech CSE(AI/ML)"
         self.stack = ["Java", "Python", "Data Structures", "Spring Boot","C++"]
 
-    def current_focus(self):
-        return "Mastering C++ STL, solving DSA on LeetCode, and building real-time vision pipelines for autonomous systems."
+   def current_focus(self):
+        return (
+            "Mastering C++ STL, solving DSA on LeetCode, "
+            "and building real-time vision pipelines for autonomous systems."
+        )
