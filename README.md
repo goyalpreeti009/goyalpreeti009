@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Preeti Goyal 👋
+# Hi there, I'm Preeti 👋
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preeti-goyal-a248b8314/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalpreeti009@gmail.com)
