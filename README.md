@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I'm Preeti Goyal 👋
-### AI & Robitics Enthusiast | B.Tech CSE (AI/ML) | Sophomore
+### AI & Robotics Enthusiast | B.Tech CSE (AI/ML) | Sophomore
 
 <div align="center">
   <a href="https://github.com/goyalpreeti009">
